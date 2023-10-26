@@ -1,4 +1,4 @@
 package runner.H.E.L.P_YF;
 
-public class YF {
+public class Test_YF {
 }
