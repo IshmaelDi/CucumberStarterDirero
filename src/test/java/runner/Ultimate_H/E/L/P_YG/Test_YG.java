@@ -15,5 +15,5 @@ import org.junit.runner.RunWith;
         dryRun = true
 )
 
-public class TestYG {
+public class Test_YG {
 }
